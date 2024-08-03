@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+div{
+	margin:0 auto;
+	width:80%;
+	height:500px;
+	border:1px solid black;
+	text-align:center;
+	padding:20px;
+	background-color:lightgray;
+	box-shadow:5px 5px #8888;
+}
+img{
+	width:60%;
+}
+button{
+	padding:10px;
+	background-color:orange;
+	color:yellow;
+	border-radius:20px;
+}
